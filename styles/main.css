@@ -9516,6 +9516,9 @@ header nav .navbar-brand img {
   height: 100%;
 }
 
+#contact {
+  scroll-margin-top: 45rem;
+}
 #contact form {
   width: 50vw;
 }
